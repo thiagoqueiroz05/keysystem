@@ -1,7 +1,7 @@
 {
   "valid_keys": {
     "KEY-82JDM-ZQVL9": { "LocalPlayer.UserId": "107496865", "expires": "0" },
-    "KEY-Y3PQN-7W4TA": { "hwid": "0", "expires": "0" },
+    "KEY-Y3PQN-7W4TA": { "hwid": "107496865", "expires": "0" },
     "KEY-XFJ2L-A9WQK": { "hwid": "0", "expires": "0" }, 
     "KEY-CTUR5-KH3XY": { "hwid": "0", "expires": "0" },
     "KEY-VK3MN-JB9RA": { "hwid": "0", "expires": "0" },
